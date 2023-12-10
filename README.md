@@ -21,11 +21,11 @@
 
 > 🔭 I’m currently working on **University Projects**
 
-> 🌱 I’m currently learning **Data Science**
+> 🌱 I’m currently learning **Software Engineering**
 
-> 👯 I’m looking to collaborate on **Data Science**
+> 👯 I’m looking to collaborate on **Software Development**
 
-> 💬 Ask me about **Python**
+> 💬 Ask me about **Python and Java**
 
 > 📫 How to reach me **davi@passanha.com.br**
 
